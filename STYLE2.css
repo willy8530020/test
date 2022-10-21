@@ -145,7 +145,15 @@ span ul{
   font-size: 0.9em;
 }
 
-.svg {
-  color: white;
-  font-size: 65em;
+.coinborder{
+  width: 110px;
+  height: 3px;
+  background-color: #fe6f4f;
+}
+.coinborder2{
+  height: 110px;
+  width: 3px;
+  background-color: #fe6f4f;
+  columns: reverse;
+
 }
